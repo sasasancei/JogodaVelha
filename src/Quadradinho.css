@@ -1,0 +1,13 @@
+.linha{
+    display: flex;
+    /* background-color: aqua; */
+   
+    height: 200px;
+
+}
+
+.casa{
+    width: 300px;
+    border: solid black 2px;
+    
+}
